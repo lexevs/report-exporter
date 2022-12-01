@@ -1,6 +1,6 @@
 <template>
   <div id="errorPage">
-    my error page
+     my error page
   </div>
 </template>
 
